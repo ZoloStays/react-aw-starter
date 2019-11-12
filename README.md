@@ -7,9 +7,9 @@ With an adaptive setup, you can render different template and content to differe
 
 ## How to run the starter kit?
 1. Clone the repository
-2. Install the dependencies by running ** npm install **
-3. Build the application using ** npm run build:prod **
-4. Start the express server by running ** npm run start:server **
+2. Install the dependencies by running **npm install**
+3. Build the application using **npm run build:prod**
+4. Start the express server by running **npm run start:server**
 5. Open [http://localhost:3000][http://localhost:3000] in your browser to access the application.
 
 
