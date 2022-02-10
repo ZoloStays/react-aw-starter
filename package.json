@@ -74,7 +74,7 @@
     "ignore-styles": "^5.0.1",
     "interpolate-html-plugin": "^3.0.0",
     "mini-css-extract-plugin": "^0.5.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^3.0.0",
     "react-router-config": "^5.0.1",
     "redux-logger": "^3.0.6",
